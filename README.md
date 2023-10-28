@@ -14,6 +14,7 @@ We are creating a diabetic prediction model for women using support vector machi
 * Pandas
 * Seaborn
 * Scikit-learn
+* Jupyter Notebook
 
 ## Model
 
