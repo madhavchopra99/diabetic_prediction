@@ -12,6 +12,7 @@ We are creating a diabetic prediction model for women using support vector machi
 
 * Numpy
 * Pandas
+* Matplotlib
 * Seaborn
 * Scikit-learn
 * Jupyter Notebook
