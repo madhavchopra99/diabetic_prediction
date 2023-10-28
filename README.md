@@ -16,6 +16,10 @@ We are creating a diabetic prediction model for women using support vector machi
 * Scikit-learn
 * Jupyter Notebook
 
+## Data Demopraphy based on Age
+
+![demography image](https://raw.githubusercontent.com/madhavchopra99/diabetic_prediction/main/screenshots/data%20demography.png)
+
 ## Model
 
 Final model is present under model folder with file name; model.pkl
